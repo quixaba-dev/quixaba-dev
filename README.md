@@ -1,6 +1,6 @@
 # Quem sou eu?
 
-## Meu nome é Bernardo Gomes e atualmente sigo estudando para futuramente me tornar um desenvolvedor backend.
+## Apenas um jovem estudando para futuramente me tornar um desenvolvedor backend.
 
 - *Estou iniciando na área, atualmente com 13 anos de idade.*
 
