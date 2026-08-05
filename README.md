@@ -1,6 +1,6 @@
-# Quem sou eu?
+# Olá, eu sou Bernardo Gomes.
 
-## Apenas um jovem estudando para futuramente me tornar um desenvolvedor backend.
+## Apenas um jovem estudando para futuramente se tornar um desenvolvedor Backend.
 
 - *Estou iniciando na área, atualmente com 13 anos de idade.*
 
@@ -8,9 +8,11 @@
 - Python
 - Git
 - Docker (Aprendendo)
-- FastAPI (Aprendendo)
+- FastAPI
+- Flask
+- SQLite3
 
 **Linguagens Futuras**:
 - C#
 - Javascript
-- HTML & CSS (Básico)
+- HTML & CSS
