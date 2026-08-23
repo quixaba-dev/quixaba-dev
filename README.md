@@ -1,8 +1,6 @@
-# Olá, eu sou Bernardo Gomes.
+# Olá, eu sou Bernardo.
 
 ## Apenas um jovem estudando para futuramente se tornar um desenvolvedor Backend.
-
-- *Estou iniciando na área, atualmente com 13 anos de idade.*
 
 **Tecnologias**: (Atualmente)
 - Python
