@@ -14,3 +14,9 @@
 - C#
 - Javascript
 - HTML & CSS
+
+
+**Outros**:
+- C++
+- Lua
+- AHK Script
