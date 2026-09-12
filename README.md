@@ -1,4 +1,4 @@
-# Olá, eu sou Bernardo.
+# Introdução.
 
 ## Apenas um jovem estudando para futuramente se tornar um desenvolvedor Backend.
 
