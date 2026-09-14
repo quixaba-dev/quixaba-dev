@@ -1,4 +1,4 @@
-# Introdução.
+# Introdução
 
 ## Apenas um jovem estudando para futuramente se tornar um desenvolvedor Backend.
 
@@ -13,10 +13,6 @@
 **Linguagens Futuras**:
 - C#
 - Javascript
-- HTML & CSS
-
 
 **Outros**:
-- C++
-- Lua
-- AHK Script
+- Lua & LuaU
