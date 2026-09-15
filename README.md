@@ -1,6 +1,6 @@
 # Introdução
 
-## Apenas um jovem estudando para futuramente se tornar um desenvolvedor Backend.
+## Apenas um jovem estudando para futuramente se tornar um desenvolvedor.
 
 **Tecnologias**: (Atualmente)
 - Python
