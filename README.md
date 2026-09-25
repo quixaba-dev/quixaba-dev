@@ -1,4 +1,4 @@
-# Hi, I'm Hype! 👋
+# Hi, I'm Bernardo! 👋
 
 ### 🧑‍💻 Backend Developer | Python Developer
 
