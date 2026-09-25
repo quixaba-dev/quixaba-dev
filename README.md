@@ -29,7 +29,7 @@ I'm interested in understanding how systems work behind the scenes — from desi
 #### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 </p>
 
 #### ⚙️ Backend & Databases
